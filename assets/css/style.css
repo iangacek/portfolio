@@ -29,6 +29,10 @@ hr {
   max-width: 300px;
 }
 
+body {
+  background: url("../images/concrete.png");
+}
+
 .navbar.navbar-default {
   background: none;
   border: none;
@@ -41,7 +45,7 @@ hr {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url("https://mydevportfolio.sfo2.cdn.digitaloceanspaces.com/dublin-sq.jpg");
+  background-image: url("http://www.ci.minneapolis.mn.us/www/groups/public/@communications/documents/images/mpls-skyline-stonearchbridge.png");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -118,7 +122,7 @@ hr {
 .row-footer {
   padding: 0vh 10vw 10vw 10vw;
   margin-top: 100px;
-  background-image: url("https://mydevportfolio.sfo2.cdn.digitaloceanspaces.com/dublin-sq.jpg");
+  background-image: url("http://www.ci.minneapolis.mn.us/www/groups/public/@communications/documents/images/mpls-skyline-stonearchbridge.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
