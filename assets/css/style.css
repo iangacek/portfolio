@@ -32,7 +32,7 @@ hr {
 }
 
 body {
-  background: url("../images/concrete.png");
+  /* background: url("../../assets/img/background.png"); */
 }
 
 #projimg {
@@ -51,7 +51,7 @@ body {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url("http://www.ci.minneapolis.mn.us/www/groups/public/@communications/documents/images/mpls-skyline-stonearchbridge.png");
+  background-image: url("../../assets/img/mpls.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
