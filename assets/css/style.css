@@ -77,6 +77,12 @@ body {
   max-width: 200px;
 }
 
+.badge-pic {
+  border-radius: 50%;
+  width: 40%;
+  max-width: 150px;
+}
+
 .header-col h2 {
   font-size: 1.3em;
   margin-bottom: 20px;
